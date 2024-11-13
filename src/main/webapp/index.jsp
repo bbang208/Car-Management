@@ -113,7 +113,7 @@
 
         .progress-label {
             font-size: 12px;
-            color: #000000;
+            color: #ffa113;
             text-align: right;
             margin-bottom: 10px;
         }
