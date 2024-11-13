@@ -62,7 +62,6 @@
             padding: 15px;
             border-radius: 10px;
             overflow-y: auto;
-            max-height: 200px;
         }
 
         .recent-item {
@@ -142,6 +141,13 @@
     <div>
         <h3 class="section-title">최근 내역</h3>
         <div class="recent-list">
+            <div class="recent-item">
+                <p>주유금액: 80,000 원</p>
+                <p>주유단가: 1,601원 (가솔린)</p>
+                <p>주유량: 49.96L</p>
+                <p>주행거리: 170,000 km</p>
+            </div>
+
             <div class="recent-item">
                 <p>주유금액: 80,000 원</p>
                 <p>주유단가: 1,601원 (가솔린)</p>
